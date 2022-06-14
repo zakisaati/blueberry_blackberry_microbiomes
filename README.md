@@ -17,7 +17,8 @@ This repository contains raw data and visualization files related with the data 
 ---
 
 ### Citation
-Authors-DBPR. Comparative genomics of the genus _Pseudomonas_ reveals host- and environment-specific evolution. Under revision.
+
+insert citation
 
 ---
 
