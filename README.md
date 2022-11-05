@@ -12,7 +12,7 @@ This repository contains raw data and visualization files related with the data 
   - The [Artifacts](./QIIME2/Artifacts/) folder contains QIIME2 .qza files that can be used to reproduce our data and to make extra analyses.
   
 - The raw data can be downloaded from the SRA, under the following BioProject: ...... and also from the [Raw data](./Raw_data/) folder.
-- The[Source data](./Source_data/) folder contains tables and matrixes used to generate boxplots and barplots. 
+- The [Source data](./Source_data/) folder contains tables and matrixes used to generate boxplots and barplots. 
 
 ---
 
