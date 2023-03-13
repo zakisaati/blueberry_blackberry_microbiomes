@@ -4,7 +4,7 @@ This repository contains raw data and visualization files related with the data 
 
 
 <p align="center">
-[Figure 5.pdf](https://github.com/zakisaati/blueberry_blackberry_microbiomes/files/10955531/Figure.5.pdf)
+  <img width="739" alt="Captura de pantalla 2023-03-13 a las 10 18 36" src="https://user-images.githubusercontent.com/50806485/224658565-fb643eac-5c52-431e-b9b9-3f6f51b669d3.png">
 
 
 ---
