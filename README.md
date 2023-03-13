@@ -13,8 +13,6 @@ This repository contains raw data and visualization files related with the data 
   - The [Visualizers](./QIIME2/Visualizers/) folder contains QIIME2 .qzv files. These files are interactive graphs that can be viewed with [Qiime2 - view] (https://view.qiime2.org/)
   - The [Artifacts](./QIIME2/Artifacts/) folder contains QIIME2 .qza files that can be used to reproduce our data and to make extra analyses.
   
-- The [Source data](./Source_data/) folder contains tables and matrixes used to generate boxplots and barplots. 
-
 ---
 
 ### Citation
