@@ -1,6 +1,6 @@
 # Microbiome specificity and fluxes between two distant plant taxa in Iberian forests
 
-This repository contains raw data and visualization files related with the data contained in the article "Microbiome specificity and fluxes between two distant plant taxa in Iberian forests" (Saati-Santamaría et al., under review).
+This repository contains raw data and visualization files related with the data contained in the article "Microbiome specificity and fluxes between two distant plant taxa in Iberian forests" (Saati-Santamaría et al.,2023. Environmental Microbiome, Accepted).
 
 
 <p align="center">
@@ -17,7 +17,7 @@ This repository contains raw data and visualization files related with the data 
 
 ### Citation
 
-Saati-Santamaría, Z., Vicentefranqueira, R., Kolarik, M., Rivas, R., García-Fraile, P. Microbiome specificity and fluxes between two distant plant taxa in Iberian forests. Under Review
+Saati-Santamaría, Z., Vicentefranqueira, R., Kolarik, M., Rivas, R., García-Fraile, P. Microbiome specificity and fluxes between two distant plant taxa in Iberian forests. Environmental Microbiome, Accepted.
 
 ---
 
